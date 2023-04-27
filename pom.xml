@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.spicemoney</groupId>
   <artifactId>eKYC</artifactId>
-  <version>1.2</version>
+  <version>1.0</version>
   <repositories>
     <repository>
         <id>jitpack.io</id>
