@@ -4,7 +4,11 @@
   <groupId>com.spicemoney</groupId>
   <artifactId>eKYC</artifactId>
   <version>1.2</version>
-  <packaging>aar</packaging>
+   <dependency>
+      <groupId>com.github.jitpack</groupId>
+      <artifactId>maven-modular</artifactId>
+      <version>1.1</version>
+    </dependency>
   <dependencies>
     <dependency>
       <groupId>androidx.multidex</groupId>
